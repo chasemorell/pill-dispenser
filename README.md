@@ -19,7 +19,7 @@ The device has a simple dispensing mechanism. I used a stepper motor mounted und
 
 Users interact with the touchscreen to recieve thier medication. The touchscreen alerts users when they need to take medication. Then the user can press a button on the screen to dispense the medication. After the medication is dispensed, the touchscreen will ask if the user took the medication. Once they press "yes," it will return to the home screen. 
 
-## Electronics and Code 
+## Electronics 
 
 Components:
 - Arduino Mega
@@ -28,6 +28,7 @@ Components:
 - 2.8 inch Adafruit Capacative Touchscreen
 - Wires
 
+## Code 
 The code for the automated pill dispenser can be [found here](https://github.com/chasemorell/pill-dispenser/blob/master/pillDispenser.ino).
 
 ![Image of Electronics of Machine](https://github.com/chasemorell/pill-dispenser/blob/master/insidepilldispenser.png)
