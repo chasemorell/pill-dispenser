@@ -28,7 +28,7 @@ Components:
 - 2.8 inch Adafruit Capacative Touchscreen
 - Wires
 
-The code for the automated pill dispenser can be [found here](https://github.com/chasemorell/pinball/blob/master/Pinball.ino).
+The code for the automated pill dispenser can be [found here](https://github.com/chasemorell/pill-dispenser/blob/master/pillDispenser.ino).
 
 ![Image of Electronics of Machine](https://github.com/chasemorell/pill-dispenser/blob/master/insidepilldispenser.png)
 ## 3D Designed Part
