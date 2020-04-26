@@ -1,5 +1,5 @@
 # Automated Pill Dispenser
-![Image of Pinball Machine](https://github.com/chasemorell/pinball/blob/master/pinballRight.jpg)
+![Image of Pinball Machine](https://github.com/chasemorell/pill-dispenser/blob/master/BDB4E1B1-0CE5-42C6-918D-4770D2579AEC.png)
 
 The goal of this project was to create a device that would make it easier for people to remember to take their medication. [Watch video](https://drive.google.com/file/d/1eTc9DmjkQzJBPm3TPY0fm5l2B28I1N1D/view?usp=sharing)
 
