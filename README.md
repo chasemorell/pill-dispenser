@@ -13,7 +13,7 @@ I ordered a 2.8 inch capacitive touchscreen for this project. It fits on the ard
 
 ### Dispensing Mechanism
 
-The device has a simple dispensing mechanism. I used a stepper motor mounted underneauth a wood surface to turn a rod that allows the pills to fall into the tray below. 
+The device has a simple dispensing mechanism. I used a stepper motor mounted underneath a wood surface to turn a rod that allows the pills to fall into the tray below. 
 
 ## Interaction
 
