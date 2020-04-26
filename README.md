@@ -1,7 +1,7 @@
 # Automated Pill Dispenser
 ![Image of Pinball Machine](https://github.com/chasemorell/pill-dispenser/blob/master/BDB4E1B1-0CE5-42C6-918D-4770D2579AEC.png)
 
-The goal of this project was to create a device that would make it easier for people to remember to take their medication. [Watch video](https://drive.google.com/file/d/1eTc9DmjkQzJBPm3TPY0fm5l2B28I1N1D/view?usp=sharing)
+The goal of this project was to create a device that would make it easier for people to remember to take their medication. [Watch video](https://drive.google.com/file/d/1bFqZEF5VAqe_7O5_9LfIW5_Oe89VpvPF/view?usp=sharing)
 
 ## Construction 
 
@@ -30,7 +30,7 @@ Components:
 
 The code for the automated pill dispenser can be [found here](https://github.com/chasemorell/pinball/blob/master/Pinball.ino).
 
-![Image of Electronics of Machine](https://github.com/chasemorell/pinball/blob/master/electronicsPinball.jpg)
+![Image of Electronics of Machine](https://github.com/chasemorell/pill-dispenser/blob/master/insidepilldispenser.png)
 ## 3D Designed Part
 
 I would have like to create a better storage mechanism for the pills. Here's a 3D model of it:
