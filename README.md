@@ -34,9 +34,9 @@ The code for the automated pill dispenser can be [found here](https://github.com
 ## 3D Designed Part
 
 I would have like to create a better storage mechanism for the pills. Here's a 3D model of it:
-[Link to onShape file](https://cad.onshape.com/documents/e1839cab42a1d32a6161df75/w/365f358b001e7a3448edb66f/e/1c37f95e75e92e7a8051a66f)
+[Link to onShape file](https://cad.onshape.com/documents/4d53cef2c959949e67fda81e/w/4d736071720030c78e7785ca/e/d886c25de5ae0cb3e6f95560)
 
-![Image of 3D flipper](https://github.com/chasemorell/pinball/blob/master/3DflipperModel.png)
+![Image of 3D Dispenser Part](https://github.com/chasemorell/pill-dispenser/blob/master/Screen%20Shot%202020-04-26%20at%205.46.25%20PM.png)
 
 ## Conclusion
 
